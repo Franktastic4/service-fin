@@ -1,0 +1,4 @@
+logging:
+  level: INFO
+  loggers:
+    com.franktastic4: DEBUG
