@@ -4,7 +4,7 @@ import io.dropwizard.Application;
 import io.dropwizard.setup.Bootstrap;
 import io.dropwizard.setup.Environment;
 
-public class service-finApplication extends Application<service-finConfiguration> {
+public class ServiceFinApplication extends Application<service-finConfiguration> {
 
     public static void main(final String[] args) throws Exception {
         new service-finApplication().run(args);
